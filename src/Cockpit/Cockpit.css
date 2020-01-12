@@ -1,0 +1,36 @@
+  .vermelho {
+    color: red;
+  }
+  
+  .negrito {
+    font-weight: bold;
+  }
+  
+  .Cockpit button {
+    border: 1px solid blue;
+    padding: 16px;
+    background-color: darkkhaki;
+    font:inherit;
+    color:white;
+    cursor: pointer;
+  }
+  
+  .Cockpit button:hover {
+    background-color: lightgreen;
+    color: black;
+  }
+  
+  .Cockpit button.vermelho {
+    background-color: red;
+    
+  }
+  
+  .Cockpit button.vermelho:hover {
+    background-color: orange;
+    color: yellow;
+  }
+  
+  
+
+
+
